@@ -6,7 +6,7 @@
 
 Este repositorio se creó con el fin de almacenar todos los desarrollos realizados por los estudiantes de la Universidad de los Andes para el proyecto FarmBot Uniandes. 
 
-  * [Recomendaciones](#recomendaciones)
+* [Recomendaciones](#recomendaciones)
     + [Manuales](#manuales)
     + [Trabajar con Git y GitHub](#trabajar-con-git-y-github)
 
