@@ -6,7 +6,9 @@ Este repositorio se creó con el fin de ser un índice de desarrollos realizados
 2. FarmBot Controller: https://github.com/FarmBot-Uniandes/Controller
 3. FarmBob WebApp: https://github.com/FarmBot-Uniandes/WebApp
 
-## Trabajar con Git y GitHub
+## Recomendaciones
+
+### Trabajar con Git y GitHub
 
 Para utilizar el repositorio debes hacerle fork. Esto creará una copia del repositorio en tu cuenta de GitHub, lo cual te permitirá clonarlo en tu computador, probar y utilizar todo lo desarrollado.
 
