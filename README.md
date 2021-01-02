@@ -3,7 +3,7 @@
 </p>
 
 1. [Recomendaciones](#recomendaciones)
-  + [Leer los manuales creados según la labor que se va a desarrollar](#leer-los-manuales-creados-seg-n-la-labor-que-se-va-a-desarrollar)
+    + [Leer los manuales creados según la labor que se va a desarrollar](#leer-los-manuales-creados-seg-n-la-labor-que-se-va-a-desarrollar)
   * [On the right](#on-the-right)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
