@@ -1,10 +1,10 @@
 # FarmBot_Uniandes
 
-Este repositorio se creó con el fin de ser un índice de desarrollos realizados por los estudiantes de la Universidad de los Andes para el proyecto FarmBot Uniandes. 
+<p align="center">
+  <img src="/Images/logo.png" alt="FarmBot Uniandes Logo" width="200"/>
+</p>
 
-1. FarmBot Simulator: https://github.com/FarmBot-Uniandes/Simulator
-2. FarmBot Controller: https://github.com/FarmBot-Uniandes/Controller
-3. FarmBob WebApp: https://github.com/FarmBot-Uniandes/WebApp
+Este repositorio se creó con el fin de almacenar todos los desarrollos realizados por los estudiantes de la Universidad de los Andes para el proyecto FarmBot Uniandes. 
 
 ## Recomendaciones
 
