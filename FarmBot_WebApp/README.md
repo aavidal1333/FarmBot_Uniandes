@@ -1,6 +1,7 @@
 ## Cómo se utiliza
 
-Para correr la WebApp se debe correr el archivo "main.py"
+Para correr la WebApp se debe cumplir con todo lo explicado en la sección de requerimientos. Se debe abrir el archivo "main.py" en un editor de código y confirmar que el puerto serial sea el correcto. Por último se debe ejecutar este mismo archivo con python 3.8.5.
+
 ## Requerimientos
 
 Para hacer uso de la WebApp debe haber una conexión serial con el FarmBot o con el FarmBot Simulator.
