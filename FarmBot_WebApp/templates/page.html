@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <!-- <meta http-equiv="refresh" content="5" /> -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <title>FarmBot Uniandes - WebApp</title>
+</head>
+
+<body onload="redirect()">
+
+    <div class="container">
+        <h1>FarmBot Uniandes WebApp</h1>
+
+        <div class="row" id="control-panel">
+
+            <div class="col s2 offset-s2">
+                <form action="/start/" method="post">
+                    <button class="waves-effect waves-light btn-large green accent-4" type="submit">
+                        START
+                    </button>
+                </form>
+            </div>
+
+            <div class="col s2">
+                <form action="/stop/" method="post">
+                    <button class="waves-effect waves-light btn-large red" type="submit">
+                        STOP
+                    </button>
+                </form>
+            </div>
+
+            <div class="col s2">
+                <form action="/homebtn/" method="post">
+                    <button class="waves-effect waves-light btn-large amber" type="submit">
+                        HOME
+                    </button>
+                </form>
+            </div>
+
+            <div class="col s2">
+                <form action="/water/" method="post">
+                    <button class="waves-effect waves-light btn-large light-blue darken-3" type="submit">
+                        WATERING
+                    </button>
+                </form>
+            </div>
+
+        </div>
+
+        <div class="row">
+
+            <div class="col s2">
+
+                <div class="row">
+                    <form action="/manual/" method="post">
+                        <button class="waves-effect waves-light btn-large black" type="submit">
+                            Manual
+                        </button>
+                    </form>
+                </div>
+
+                <div class="row">
+                    <form action="/auto/" method="post">
+                        <button class="waves-effect waves-light btn-large black" type="submit">
+                            Auto
+                        </button>
+                    </form>
+                </div>
+
+            </div>
+
+            <div class="col s6 offset-s1">
+
+                <div class="row" id="arrows_+">
+
+                    <div class="col s2 offset-s2">
+                            Positive
+                    </div>
+
+                    <div class="col s2">
+                        <form action="/moveXUp/" method="post">
+                            <button class="waves-effect waves-light btn-large grey" type="submit">
+                                X
+                            </button>
+                        </form>
+                    </div>
+
+                    <div class="col s2">
+                        <form action="/moveYUp/" method="post">
+                            <button class="waves-effect waves-light btn-large grey" type="submit">
+                                Y
+                            </button>
+                        </form>
+                    </div>
+
+                    <div class="col s2">
+                        <form action="/moveZUp/" method="post">
+                            <button class="waves-effect waves-light btn-large grey" type="submit">
+                                Z
+                            </button>
+                        </form>
+                    </div>
+
+                </div>
+
+                <div class="row" id="arrows_-">
+
+                    <div class="col s2 offset-s2">
+                            Negative
+                    </div>
+
+                    <div class="col s2">
+                        <form action="/moveXDown/" method="post">
+                            <button class="waves-effect waves-light btn-large grey" type="submit">
+                                X
+                            </button>
+                        </form>
+                    </div>
+
+                    <div class="col s2">
+                        <form action="/moveYDown/" method="post">
+                            <button class="waves-effect waves-light btn-large grey" type="submit">
+                                Y
+                            </button>
+                        </form>
+                    </div>
+
+                    <div class="col s2">
+                        <form action="/moveZDown/" method="post">
+                            <button class="waves-effect waves-light btn-large grey" type="submit">
+                                Z
+                            </button>
+                        </form>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="col s2 offset-s1">
+                <br>
+                Sensor 1: {{ sensor.p1 }} <br>
+                Sensor 2: {{ sensor.p2 }} <br>
+                Sensor 3: {{ sensor.p3 }} <br>
+                Sensor 4: {{ sensor.p4 }}
+            </div>
+
+        </div>
+
+    </div>
+
+    <script>
+
+        function redirect() {
+            if (window.location.pathname != "/home") {
+                window.location.pathname = "/home";
+            }
+        }
+
+
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+</body>
+
+</html>
