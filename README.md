@@ -2,7 +2,7 @@
   <img src="/Images/logo.png" alt="FarmBot Uniandes Logo" width="200"/>
 </p>
 
-1 [Recomendaciones](#recomendaciones)
+1. [Recomendaciones](#recomendaciones)
   * [And a table of contents](#and-a-table-of-contents)
   * [On the right](#on-the-right)
 
@@ -10,7 +10,7 @@
 
 Este repositorio se creó con el fin de almacenar todos los desarrollos realizados por los estudiantes de la Universidad de los Andes para el proyecto FarmBot Uniandes. 
 
-## Recomendaciones
+## 1. Recomendaciones
 
 ### Leer los manuales creados según la labor que se va a desarrollar
 
