@@ -34,6 +34,6 @@ En todo caso, debe quedar claro que el administrador es el único que puede hace
 # Contributors
 
 - Giacomo Barbieri - Profesor
-- Alexander - Desarrollo de Simulator y Controller
+- Alexander Murcia - Desarrollo de Simulator y Controller
 - Juan Felipe Palacios - Desarrollo de Simulator y Controller
 - [Juan R. Cifuentes](https://github.com/JuanRCifuentes) - Desarrollo de WebApp y conexión con el robot
