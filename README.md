@@ -6,13 +6,13 @@
 
 Este repositorio se creó con el fin de almacenar todos los desarrollos realizados por los estudiantes de la Universidad de los Andes para el proyecto FarmBot Uniandes. 
 
-* [Recomendaciones](#1-recomendaciones)
+1. [Recomendaciones](#recomendaciones)
     + [Manuales](#manuales)
     + [Trabajar con Git y GitHub](#trabajar-con-git-y-github)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-## 1. Recomendaciones
+## Recomendaciones
 
 ### Manuales
 
