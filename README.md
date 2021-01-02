@@ -3,7 +3,7 @@
 </p>
 
 1. [Recomendaciones](#recomendaciones)
-    + [Leer los manuales creados según la labor que se va a desarrollar](#leer-los-manuales-creados-seg-n-la-labor-que-se-va-a-desarrollar)
+    + [Manuales](#manuales)
   * [On the right](#on-the-right)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
@@ -12,7 +12,7 @@ Este repositorio se creó con el fin de almacenar todos los desarrollos realizad
 
 ## Recomendaciones
 
-### Leer los manuales creados según la labor que se va a desarrollar
+### Manuales
 
 En la carpeta ["Manuales de uso"](https://github.com/JuanRCifuentes/FarmBot_Uniandes/tree/main/Manuales%20de%20uso) hay tres documentos, los cuales detallan la forma de utilizar los recursos del repositorio:
 1. [Manual de desarrollador](https://github.com/JuanRCifuentes/FarmBot_Uniandes/blob/main/Manuales%20de%20uso/Manual_desarrollador.pdf): Guía para modificar el código escrito para el "FarmBot Simulator".
