@@ -8,8 +8,6 @@ Este repositorio se creó con el fin de ser un índice de desarrollos realizados
 
 ## Trabajar con Git y GitHub
 
-Es muy útil tomar el 
-
 Para utilizar el repositorio debes hacerle fork. Esto creará una copia del repositorio en tu cuenta de GitHub, lo cual te permitirá clonarlo en tu computador, probar y utilizar todo lo desarrollado.
 
 Lista de recursos para aprender a utilizar de manera adecuada Git y GitHub:
