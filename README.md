@@ -31,4 +31,9 @@ Para hacer cambios al repositorio, el flujo de trabajo recomendado es el siguien
 **Los pull request deben estar listos para su uso por el usuario final**, de lo contrario se debe crear una rama el el repositorio original con un nombre que identifique en que se está trabajando y siempre enviar los pull request a esta rama. Cuando este desarrollo esté finalizado, el administrador debe hacer merge de la rama creada con la rama main".
 En todo caso, debe quedar claro que el administrador es el único que puede hacer cambios al repositorio original.
 
+# Contributors
 
+- Giacomo Barbieri - Profesor
+- Alexander - Desarrollo de Simulator y Controller
+- Juan Felipe Palacios - Desarrollo de Simulator y Controller
+- [Juan R. Cifuentes](https://github.com/JuanRCifuentes) - Desarrollo de WebApp y conexión con el robot
