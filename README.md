@@ -8,7 +8,7 @@ Este repositorio se creó con el fin de almacenar todos los desarrollos realizad
 
 1. [Recomendaciones](#recomendaciones)
     + [Manuales](#manuales)
-    * [On the right](#on-the-right)
+    + [Trabajar con Git y GitHub](#trabajar-con-git-y-github)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
