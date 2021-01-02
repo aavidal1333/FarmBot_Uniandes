@@ -11,7 +11,7 @@ Además de esto hay una lista de requerimientos a continuación:
 2. PIP actualizado: Pip se puede actualizar utilizando el comando "pip install --upgrade pip"
 3. Flask: Se instala usando "pip install flask"
 4. Serial: Se instala usando "pip install pyserial"
-5. Ngrok: [Instalador de ngrok](https://ngrok.com/download)
+5. Ngrok: [Instalador de ngrok](https://ngrok.com/download). En el Raspberry Pi se usa el instalador ARM. Debido a que no es mediante línea de comandos, debe hacerse en "RaspberryPi OS with Desktop". Esto es una limitación a la hora de hacer uso a través de internet de la aplicación.
 
 Para utilizar la WebApp en el FarmBot directamente se recomienda el uso de un Raspberry Pi. Éste debe contar con [Raspberry Pi OS](https://www.raspberrypi.org/software/operating-systems/) (se recomienta la versión con escritorio para desarrollo y la versión Lite para utilizar la herramienta) ya que los desarrollos se hicieron en base a este. Se deben instalar los requerimientos mencionados anteriormente. Finalmente el uso de una conexión remota ha mostrado ser útil para el manejo directo del robot y para el manejo de posibles errores a la hora de utilizar la aplicación (Se recomienda VNC para desarrollo y SSH para uso del producto terminado).
 
