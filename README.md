@@ -12,7 +12,7 @@ Es muy útil tomar el [curso ofrecido por el minTIC llamado "Curso profesional d
 
 Para utilizar el repositorio debes hacer fork al repositorio. Esto creará una copia del repositorio en tu cuenta de GitHub, lo cual te permitirá clonarlo en tu computador, probar y utilizar todo lo desarrollado.
 
-### Cambios o hacer nuevos aportes
+### Cambios o aportes
 
 Para hacer cambios al repositorio, el flujo de trabajo recomendado es el siguiente:
 1. Hacer fork del repositorio de GitHub en tu propia cuenta
