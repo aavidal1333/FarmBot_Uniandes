@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/Images/logo.png" alt="FarmBot Uniandes Logo" width="200"/>
+  <img src="/Assets/Images/logo.png" alt="FarmBot Uniandes Logo" width="200"/>
 </p>
 
 Este repositorio se creó con el fin de almacenar todos los desarrollos realizados por los estudiantes de la Universidad de los Andes para el proyecto FarmBot Uniandes.
@@ -16,7 +16,7 @@ Este repositorio se creó con el fin de almacenar todos los desarrollos realizad
 
 ### Manuales
 
-En la carpeta ["Manuales de uso"](https://github.com/FarmBot-Uniandes/FarmBot_Uniandes/tree/main/Manuales%20de%20uso) hay tres documentos, los cuales detallan la forma de utilizar los recursos del repositorio
+En la carpeta ["Manuales de uso"](https://github.com/FarmBot-Uniandes/FarmBot_Uniandes/tree/main/Manuales%20de%20uso) (Assets/Manuales de Uso) hay tres documentos, los cuales detallan la forma de utilizar los recursos del repositorio
 1. [Manual de desarrollador](https://github.com/FarmBot-Uniandes/FarmBot_Uniandes/blob/main/Manuales%20de%20uso/Manual_desarrollador.pdf): Guía para modificar el código escrito para el "FarmBot Simulator".
 2. [Manual de Usuario](https://github.com/FarmBot-Uniandes/FarmBot_Uniandes/blob/main/Manuales%20de%20uso/Manual_usuario.pdf): Instructivo para la utilización y modificación del "FarmBot Controller".
 3. [Uso del repositorio](https://github.com/FarmBot-Uniandes/FarmBot_Uniandes/blob/main/Manuales%20de%20uso/Uso_Repositorio.md): Lineamientos y recomendaciones para el hacer modificaciones en el repositorio.
