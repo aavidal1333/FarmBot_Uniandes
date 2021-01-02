@@ -18,11 +18,11 @@ Es importante leer los archivos README.md que se encuentran dentro de la carpeta
 
 ### Manuales
 
-En la carpeta ["Manuales de uso"](https://github.com/FarmBot-Uniandes/FarmBot_Uniandes/tree/main/Manuales%20de%20uso) (Assets/Manuales de Uso) hay tres documentos, los cuales detallan la forma de utilizar los recursos del repositorio
-1. [Manual de desarrollador](https://github.com/FarmBot-Uniandes/FarmBot_Uniandes/blob/main/Manuales%20de%20uso/Manual_desarrollador.pdf): Guía para modificar el código escrito para el "FarmBot Simulator".
-2. [Manual de Usuario](https://github.com/FarmBot-Uniandes/FarmBot_Uniandes/blob/main/Manuales%20de%20uso/Manual_usuario.pdf): Instructivo para la utilización y modificación del "FarmBot Controller".
-3. [Uso del repositorio](https://github.com/FarmBot-Uniandes/FarmBot_Uniandes/blob/main/Manuales%20de%20uso/Uso_Repositorio.md): Lineamientos y recomendaciones para el hacer modificaciones en el repositorio.
-4. [Configuración FarmBot](https://github.com/FarmBot-Uniandes/FarmBot_Uniandes/blob/main/Manuales%20de%20uso/Configuracion_FarmBot.md): Guía para configurar el Robot FarmBot (Farmbot OS y Farmduino).
+En la carpeta "Manuales de uso" (Assets/Manuales de Uso) hay tres documentos, los cuales detallan la forma de utilizar los recursos del repositorio
+1. Manual de desarrollador: Guía para modificar el código escrito para el "FarmBot Simulator".
+2. Manual de Usuario: Instructivo para la utilización y modificación del "FarmBot Controller".
+3. Uso del repositorio: Lineamientos y recomendaciones para el hacer modificaciones en el repositorio.
+4. Configuración FarmBot: Guía para configurar el Robot FarmBot (Farmbot OS y Farmduino).
 
 ### Trabajar con Git y GitHub
 
