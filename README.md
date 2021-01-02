@@ -1,8 +1,12 @@
-# FarmBot_Uniandes
-
 <p align="center">
   <img src="/Images/logo.png" alt="FarmBot Uniandes Logo" width="200"/>
 </p>
+
+- [Paste Your Document In Here2](#paste-your-document-in-here2)
+  * [And a table of contents](#and-a-table-of-contents)
+  * [On the right](#on-the-right)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 Este repositorio se creó con el fin de almacenar todos los desarrollos realizados por los estudiantes de la Universidad de los Andes para el proyecto FarmBot Uniandes. 
 
