@@ -1,4 +1,6 @@
-**Para ejecutar, abrir archivo Farmbot_Simulator.exe (acceso directo)**
+## Cómo se utiliza
+
+Para hacer uso del FarmBot Simulator se debe ejecutar el archivo "Farmbot_Simulator.exe", de este archivo hay un acceso directo en la carpeta del simulador.
 
 * Folder files: carpeta para guardar lo que deberia ir en la EEPROM
 * Folder images: Imagenes de la interfaz
