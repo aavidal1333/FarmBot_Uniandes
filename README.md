@@ -6,15 +6,15 @@ Este repositorio se creó con el fin de ser un índice de desarrollos realizados
 2. FarmBot Controller: https://github.com/FarmBot-Uniandes/Controller
 3. FarmBob WebApp: https://github.com/FarmBot-Uniandes/WebApp
 
-## Cambios o aportes
-
-Este proyecto está almacenado en GitHub, por lo tanto la mejor manera de aportar a este es a través de la plataforma. Por esta razón, la forma estándar para realizar cambios será por medio de "Pull request"
-
-### Trabajar con Git y GitHub
+## Trabajar con Git y GitHub
 
 Es muy útil tomar el [curso ofrecido por el minTIC llamado "Curso profesional de Git y GitHub"](https://www.apps.co/cursos/show/6). Se encuentra de forma gratuita al crear una cuenta en la página [APPS.CO](http://apps.co).
 
-Para utilizar el repositorio debes hacer fork al repositorio. Esto creará una copia del repositorio en tu cuenta de GitHub, lo cual te permitirá clonarlo en tu computador, probar y utilizar todo lo desarrollado.
+Para utilizar el repositorio debes hacerle fork. Esto creará una copia del repositorio en tu cuenta de GitHub, lo cual te permitirá clonarlo en tu computador, probar y utilizar todo lo desarrollado.
+
+### Cambios o aportes
+
+Este proyecto está almacenado en GitHub, por lo tanto la mejor manera de aportar a este es a través de la plataforma. Por esta razón, la forma estándar para realizar cambios será por medio de "Pull request"
 
 Para hacer cambios al repositorio, el flujo de trabajo recomendado es el siguiente:
 1. Hacer fork del repositorio de GitHub en tu propia cuenta
