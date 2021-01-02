@@ -7,14 +7,12 @@ Este repositorio se creó con el fin de ser un índice de desarrollos realizados
 3. FarmBob WebApp: https://github.com/FarmBot-Uniandes/WebApp
 
 ## Trabajando con Git y GitHub
----
 
 Es muy útil tomar el [curso ofrecido por el minTIC llamado "Curso profesional de Git y GitHub"](https://www.apps.co/cursos/show/6). Se encuentra de forma gratuita al crear una cuenta en la página [APPS.CO](http://apps.co).
 
 Para utilizar el repositorio debes hacer fork al repositorio. Esto creará una copia del repositorio en tu cuenta de GitHub, lo cual te permitirá clonarlo en tu computador, probar y utilizar todo lo desarrollado.
 
 ## Cambios o hacer nuevos aportes
----
 
 Para hacer cambios el flujo de trabajo es el siguiente:
 1. 
