@@ -14,6 +14,8 @@ Este repositorio se creó con el fin de almacenar todos los desarrollos realizad
 
 ## Recomendaciones
 
+Es importante leer los archivos README.md que se encuentran dentro de la carpeta de cada desarrollo, ya que en estos se explica de manera resumida su uso, sus requerimientos y su construcción.
+
 ### Manuales
 
 En la carpeta ["Manuales de uso"](https://github.com/FarmBot-Uniandes/FarmBot_Uniandes/tree/main/Manuales%20de%20uso) (Assets/Manuales de Uso) hay tres documentos, los cuales detallan la forma de utilizar los recursos del repositorio
