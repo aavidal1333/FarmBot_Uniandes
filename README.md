@@ -2,7 +2,7 @@
   <img src="/Images/logo.png" alt="FarmBot Uniandes Logo" width="200"/>
 </p>
 
-- [Paste Your Document In Here2](#paste-your-document-in-here2)
+1 [Recomendaciones](#recomendaciones)
   * [And a table of contents](#and-a-table-of-contents)
   * [On the right](#on-the-right)
 
