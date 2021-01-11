@@ -14,7 +14,7 @@ Este repositorio se creó con el fin de almacenar todos los desarrollos realizad
 
 ## Recomendaciones
 
-Es importante leer los archivos README.md que se encuentran dentro de la carpeta de cada desarrollo, ya que en estos se explica de manera resumida su uso, sus requerimientos y su construcción.
+Es importante leer los archivos README.md que se encuentran dentro de las diferentes carpetas, ya que en estos se explica de manera resumida su uso, sus requerimientos y su construcción.
 
 ### Manuales
 
